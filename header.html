@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Jiawen Yan</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+
+<header>
+	<div class="navbar-header">
+      <!-- <a class="navbar-brand" href="/">
+	  <img style="max-width:120px; margin-top: -7px;" src="{{ url_for('static', filename='images/mainlogo-old.png') }}">
+	  </a> -->
+    </div>
+	
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-1">
+				
+				<a href="/"><button type="button" class="btn btn-primary" aria-label="Left Align" style="margin-top: 5px; margin-bottom: 5px; height: 60px; width:180px; margin-right: 15px; color: #084575; background-color: #ffffff; border: none;" >
+				  <h4><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></button></a>
+				
+			</div>
+			<div class="col-md-2">
+				<ul style="list-style-type: none;">
+					<a href="/courses/"><button type="button" class="btn btn-primary" aria-label="Left Align" style="margin-top: 5px; margin-bottom: 5px; height: 60px; width:180px; margin-right: 15px; color: #363232; background-color: #f7f7f7; border: none;" >
+					  <h4><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Courses </h4></button></a>
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<ul style="list-style-type: none;">
+					<a href="/research/"><button type="button" class="btn btn-primary" aria-label="Left Align" style="margin-top: 5px; margin-bottom: 5px; height: 60px; width:180px; margin-right: 15px; color: #363232; background-color: #f7f7f7; border: none;">
+			  <h4><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Research </h4></button></a>
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<ul style="list-style-type: none;">
+					<a href="/datasets/"><button type="button" class="btn btn-primary" aria-label="Left Align" style="margin-top: 5px; margin-bottom: 5px; height: 60px; width:180px; margin-right: 15px; color: #363232; background-color: #f7f7f7; border: none;">
+			  <h4><span class="glyphicon glyphicon-equalizer" aria-hidden="true"></span> Datasets </h4></button></a>
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<ul style="list-style-type: none;">
+					<a href="/clouds/"><button type="button" class="btn btn-primary" aria-label="Left Align" style="margin-top: 5px; margin-bottom: 5px; height: 60px; width:180px; margin-right: 15px; color: #363232; background-color: #f7f7f7; border: none;">
+			  <h4><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span>&nbsp;&nbsp;Clouds </h4></button></a>
+				</ul>
+			</div>
+			<div class="col-md-2">
+				<ul style="list-style-type: none;">
+					<a href="/tutorials/"><button type="button" class="btn btn-primary" aria-label="Left Align" style="margin-top: 5px; margin-bottom: 5px; height: 60px; width:180px; margin-right: 15px; color: #363232; background-color: #f7f7f7; border: none;"><h4><span class="glyphicon glyphicon-road" aria-hidden="true"></span>&nbsp;&nbsp;Tutorials </h4></button></a>
+				</ul>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+
+</header>
+
+<body>
+
+	<div class="border-row" style="width: 100%; margin-bottom: 15px;"></div>
+	<div class="container-fluid" style="min-height: 100%">
+
+		{% with messages = get_flashed_messages() %}
+			{% if messages %}
+				{% for message in messages%}
+				<div class="alert alert-warning alert-dismissable" role="alert">
+				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					{{message}}
+				</div>
+				{% endfor %}
+			{% endif %}
+		{% endwith%}
+		{% block body %}
+		{% endblock %}
+
+	</div>
+
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</body>
+	<div class="footer-container" style="background-color: #ececec">
+		<footer id="footer">
+			<div class="border-row" style="width:100%; margin-bottom: 15px;"> </div>
+			<div class="row">
+			<br>
+			  <div class="col-md-1"> </div>
+			  <div class="col-md-3">
+					<ul style="list-style-type: none;">
+							<li><strong>About</strong></li>
+							<li><a href="/about"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> About Me</a></li>
+							<li><a href="/hire-me"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Hiring</a></li>
+							<li><a href="/support-donate"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> Support</a></li>
+							<li>&copy; 2018 PythonGo</li>
+							
+					</ul>
+					
+			  </div>
+
+			  <div class="col-md-3">
+				<ul style="list-style-type: none;">
+							<li><strong>Soical</strong></li>
+							<li><a href="mailto:yjw9100@hotmail.com"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email: yjw9100@hotmail.com</a></li>
+							<li><a href="https://www.linkedin.com/in/jiawen-yan/"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Linkedin</a></li>
+							<li><a href="https://github.com/CHARLESYAN1/"><span class="glyphicon glyphicon-console" aria-hidden="true"></span> Github</a></li>
+							<li><a href="/contact">More</a></li>
+
+				</ul>
+			  </div>
+			  
+			  <div class="col-md-3"><ul style="list-style-type: none;">
+						<li><strong>Legal and Privacy</strong></li>
+						<li><span><a href="/tos"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> Term of Conditions</a></span></li>
+						<li><span><a href="/privacy-policy"><span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span> Privacy
+						<br>(Last Update 2018/02/25)</a></span></li>
+						
+					</ul>
+					</div>
+			</div>
+
+			<br>
+
+			</div>
+	</footer>
+
+
+</html>
+	  
