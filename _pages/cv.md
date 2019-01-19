@@ -16,7 +16,7 @@ Education
   * Relevant coursework: Big data analysis, Advanced Econometrics, Business Intelligence
 * B.S. in Finance and Economics, Southwestern University of Finance and Economics, 2018
   * Research Institute of Economics and Management (RIEM): modeled after Sloan Business School (classes in English), with top 150 elite freshmen selected based on exams and interviews; concentrate on data analysis and implementing ability
-  * GPA: 4.2/5 (92/100); ranking 1/172
+  * GPA: 4.2/5 (92/100); 
   * Relevant coursework: Mathematics Modeling and Experiment (99/100), Econometrics (97/100), Probability and Statistics (97/100), Behavior Finance (99/100), Advanced Mathematics (99/100), Intermediate Economics (95/100), Derivative Pricing (93/100)
   * Thesis: Analyst Characteristics, Textual Infromation and Prediction Accuracy. Explored the relation between facial attractiveness of sell-side analysts and their reports outputs. 
 * Exchange Student, Texas University of A&M, Texas, 2016
@@ -38,19 +38,20 @@ Research Experience
   * Working Paper: Information Content of Analyst Reports in China
 
 * National Undergraduate Research Project 
- *Team Leader (Chengdu, China)*
+  *Team Leader (Chengdu, China)*
   * Focused on Text Mining and Machine Learning
   * Instructor: Professor Zaichao Du, Youth ChangJiang Scholar, from Southwestern University of Finance and Economics
   * Obtained Naïve Bayes Classifier through deep learning by Scikit-learn machine learning tool over 100 hours, with in-sample and ten-folds cross validation accuracy over 96% and 85%, respectively
   * Working Paper: Evidence of Information Content of Listed Company’s Notices
 
 * 2016 U.S. Mathematical Contest of Modeling (MCM), Jan. – Feb. 2016
- *Team Leader (Chengdu, China)*
- * Hosted by Consortium for Mathematics and Applications (COMAP); an international contest to
+  *Team Leader (Chengdu, China)*
+  * Hosted by Consortium for Mathematics and Applications (COMAP); an international contest to
 clarify, analyze, and propose solutions to open-ended problems
- * Designated as Outstanding Winner (13/7421, 0.13%) and Frank Giordano Award, for excellent
-modelingInvited by Mathematical Association of America to present paper on 2016 annual meeting
- * Constructed and applied a simplified model regarding commercial opportunities in space debris
+  * Designated as Outstanding Winner (13/7421, 0.13%) and Frank Giordano Award, for excellent
+modeling; 
+  * Invited by Mathematical Association of America to present paper on 2016 annual meeting
+  * Constructed and applied a simplified model regarding commercial opportunities in space debris
 removing using CVP process
 
 
@@ -68,9 +69,8 @@ Skills
 * English
   * GRE: 329, Quantitative: 170/170, Verbal: 159/170
   * TOEFL: 104/120
-* Python in data analysis and visualization
+* Python in data analysis, data visualization, machine learning 
 * Stata
-
   
 
 Service and Extra-curricular Activities
@@ -80,10 +80,10 @@ Service and Extra-curricular Activities
   * 2017.11 Wenjiang Marathon finisher
   * 2017.4 Shuangyi Marathon finisher
 
-* Formula One USGP
+* Formula One USGP, fall 2016 
   *Global Volunteer (Austin, U.S.)*
 
-* Jirrahlinga Koala and Wildlife Sanctuary
+* Jirrahlinga Koala and Wildlife Sanctuary, Summer 2015 
   *Global Volunteer (Geelong, Australia)*
 
 
