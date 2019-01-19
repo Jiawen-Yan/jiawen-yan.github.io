@@ -83,7 +83,7 @@ author:
   name             : "Jiawen Yan"
   avatar           : "profile.png"
   bio              : "MS in BA at Tsinghua and Columbia University"
-  location         : "Beijing, China"
+  location         : " Beijing, China"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://linkedin.com/in/jiawen-yan"
+  linkedin         : "jiawen-yan"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -237,6 +237,42 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  # _courses
+  - scope:
+      path: ""
+      type: cources
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  # _dataset
+  - scope:
+      path: ""
+      type: dataset
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  # _programming
+  - scope:
+      path: ""
+      type: programming
     values:
       layout: talk
       author_profile: true

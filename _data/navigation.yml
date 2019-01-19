@@ -6,11 +6,11 @@ main:
   - title: "Courses"
     url: /courses/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Datasets"
+    url: /datasets/
+      
+  - title: "Programming"
+    url: /programming/
     
   - title: "CV"
     url: /cv/
