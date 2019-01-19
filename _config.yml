@@ -263,7 +263,7 @@ defaults:
   # _dataset
   - scope:
       path: ""
-      type: dataset
+      type: datasets
     values:
       layout: talk
       author_profile: true
