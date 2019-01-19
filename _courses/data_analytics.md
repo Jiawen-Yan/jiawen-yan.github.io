@@ -42,6 +42,9 @@ To predict unfollow behaviors, we constructed a balanced dataset with 20,000 con
 <br>
 Feature of Importances derived by increased prediction accuracy show that social connections are vital to keep relationship long lasting: common followers and common fans are both most significant variables for major ML algorithms. 
 
+![feature of importance](/images/courses/FI_2.png)
+<br>
+
 Main Findings and Implications: 
 =====
 * Part 1: Why do people follow/unfollow?
