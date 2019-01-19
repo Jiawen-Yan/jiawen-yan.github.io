@@ -31,20 +31,20 @@ Research Experience
   * Scrapyed Eastmoney.com using Scrapy framework, cleaned and perform NLP analysis over 200GB text of news, notices, analyst reports, and blogs over 3,527 listed firms. 
   * Crawled over 20 million Linkedin Profiles, constructed U.S. financial social network, and evaluated network centalities and information dissemination 
 
-* New York University Shanghai (NYU Shanghai), Dec 2016 - Spring 2017
+* New York University Shanghai (NYU Shanghai), Dec 2016 - Spring 2017  
   *Research Assistant (Shanghai, China)* 
   * Participated in National Natural Science Project with Assistance Professor Yakun Wang from New York University and Southwestern University of Finance and Economics: The Dissemination of Corporates’ Accounting Information: Quality, Channels and Effects
   * Performed textual information extraction and sentiment analysis to over 2 million U.S. analyst reports from 1996 to 2016 Crawled over 1 million analyst reports from 2006 to 2016 in China from Tencent Finance, over 40 million SinaWeibo tweets, and over 3,000 detailed analysts’ information from SAC and LinkedIn
   * Working Paper: Information Content of Analyst Reports in China
 
-* National Undergraduate Research Project 
+* National Undergraduate Research Project  
   *Team Leader (Chengdu, China)*
   * Focused on Text Mining and Machine Learning
   * Instructor: Professor Zaichao Du, Youth ChangJiang Scholar, from Southwestern University of Finance and Economics
   * Obtained Naïve Bayes Classifier through deep learning by Scikit-learn machine learning tool over 100 hours, with in-sample and ten-folds cross validation accuracy over 96% and 85%, respectively
   * Working Paper: Evidence of Information Content of Listed Company’s Notices
 
-* 2016 U.S. Mathematical Contest of Modeling (MCM), Jan. – Feb. 2016
+* 2016 U.S. Mathematical Contest of Modeling (MCM), Jan. – Feb. 2016  
   *Team Leader (Chengdu, China)*
   * Hosted by Consortium for Mathematics and Applications (COMAP); an international contest to
 clarify, analyze, and propose solutions to open-ended problems
@@ -75,15 +75,15 @@ Skills
 
 Service and Extra-curricular Activities
 ======
-* Marathon
+* Marathon  
   * 2018.9 Beijing Marathon finisher
   * 2017.11 Wenjiang Marathon finisher
   * 2017.4 Shuangyi Marathon finisher
 
-* Formula One USGP, fall 2016 
+* Formula One USGP, fall 2016  
   *Global Volunteer (Austin, U.S.)*
 
-* Jirrahlinga Koala and Wildlife Sanctuary, Summer 2015 
+* Jirrahlinga Koala and Wildlife Sanctuary, Summer 2015   
   *Global Volunteer (Geelong, Australia)*
 
 
