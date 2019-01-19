@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiawen Yan is currently a dual degree M.S. student in Business Analytics at Tsinghua and Columbia University, expecting to graduate at 2020. 
+Jiawen Yan is currently M.S. in Business Analytics at Tsinghua and Columbia University, expecting to graduate at 2020. 
 
 Education 
 ======
@@ -33,6 +33,8 @@ In big data era, Jiawen is expert at data collecting and storing. He has designe
 <br>
 He is also an experienced data analyst. His research projects involves unstructured data analysis: textual analysis (sentiment analysis, topic modelling, similarities and uncertainties, social network...), image analysis (key fiducial landmarks detection, facial features and traits analysis...), audio analysis (energy, pitch and tone analysis...), as well as numerous structured data analysis. Machine learning knowledge is a plus of him: Jiawen could exploit machine learning and deep learning algorithms using Python packages including scikit-learn, xgboost, tensorflow, keras, graph-tool etc to perform various supervised and unsupervised tasks.
 ![Sample of ML](/images/FI_3.png)
+
+
 
 
 

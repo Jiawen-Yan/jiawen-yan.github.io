@@ -245,7 +245,7 @@ defaults:
   # _courses
   - scope:
       path: ""
-      type: cources
+      type: courses
     values:
       layout: talk
       author_profile: true
