@@ -26,7 +26,7 @@ Data is oil. To better solve those two questions, we have 4 "big" tables helping
 
 Analysis:
 =====
-Mark Zackberg once said: "all connections are good" and social media firms pay much cares about users connections. It would be invaluable if we could tell them what connections are good and what connections are bad, and how to strength good relationships and break bad ties. 
+Mark Zuckerberg once said: "all connections are good" and social media firms pay much cares about users connections. It would be invaluable if we could tell them what connections are good and what connections are bad, and how to strength good relationships and break bad ties. 
 <br>
 In this 6 week course, our team spent first four weeks cleaning data and analyzing trends, finding the channels through which users may untie; and the spent the last two weeks building prediction models and  improving prediction accuracy. 
 <br>
