@@ -13,16 +13,16 @@ date: 2018-11-15
 #### Analysis 
 
 ##### Confusion Matrix in Testing Set
-[confusion matrix](https://charlesyan1.github.io/images/courses/BI/CM.png)
+![confusion matrix](https://charlesyan1.github.io/images/courses/BI/CM.png)
 
 ##### Deep Learning Performance using CNN
-[deep learning](https://charlesyan1.github.io/images/courses/BI/CNN.png)
+![deep learning](https://charlesyan1.github.io/images/courses/BI/CNN.png)
 
 ##### Deep Learning Performance using RNN
-[deep learning](https://charlesyan1.github.io/images/courses/BI/RNN.png)
+![deep learning](https://charlesyan1.github.io/images/courses/BI/RNN.png)
 
 ##### Adjusted Score combining user numeric score and textual sentiment
-[trend line](https://charlesyan1.github.io/images/courses/BI/score.png)
+![trend line](https://charlesyan1.github.io/images/courses/BI/score.png)
 
 #### Conclusion 
 
