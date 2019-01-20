@@ -1,5 +1,5 @@
 ---
-title: "Business Analysis and Integration"
+title: "2018 Fall, Business Analysis and Integration"
 collection: courses
 permalink: /courses/data_analytics
 excerpt: 'Business Analysis and Integration of Real TB Data Analysis at [Kwai](https://www.kuaishou.com)'
