@@ -22,7 +22,7 @@ date: 2018-11-15
 ![deep learning](https://charlesyan1.github.io/images/courses/BI/RNN.png)
 
 ##### Adjusted Score combining user numeric score and textual sentiment
-![trend line](https://charlesyan1.github.io/images/courses/BI/score.png)
+![trend line](https://charlesyan1.github.io/images/courses/BI/score.jpg)
 
 #### Conclusion 
 
