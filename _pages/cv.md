@@ -69,8 +69,9 @@ Skills
 * English
   * GRE: 329, Quantitative: 170/170, Verbal: 159/170
   * TOEFL: 104/120
-* Python in data analysis, data visualization, machine learning 
-* Stata
+* Proficient in Python for data visualization, machine learning and textual analysis
+* Proficient in Stata for statistical analytics
+* Familiar with SQL, R, SAS, LaTeX
   
 
 Service and Extra-curricular Activities
@@ -87,5 +88,9 @@ Service and Extra-curricular Activities
   *Global Volunteer (Geelong, Australia)*
 
 
+Introduction Video 
+======
+* A short introduction video, which was taken in 2017 in Southwestern University of Finance and Economics (SWUFE)
+[![Youtube](/images/profile.png)](https://youtu.be/rcUfz-vTPn0)
 
 

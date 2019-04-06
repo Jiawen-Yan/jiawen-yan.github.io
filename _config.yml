@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Jiawen Yan / Charles"
 title_separator          : "-"
 name                     : &name "Jiawen Yan"
-description              : &description "MS in BA at Tsinghua and Columbia University"
-url                      : https://charlesyan1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master Student in Data Analytics at Tsinghua and Columbia University"
+url                      : https://charlesyan1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlesyan1/charlesyan1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiawen Yan"
   avatar           : "profile.png"
-  bio              : "M.S. in BA at Tsinghua and Columbia University"
-  location         : " Beijing, China"
+  bio              : "Master Student in Data Analytics at Tsinghua and Columbia University"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yjw9100@hotmail.com"
