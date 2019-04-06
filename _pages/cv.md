@@ -91,6 +91,6 @@ Service and Extra-curricular Activities
 Introduction Video 
 ======
 * A short introduction video, which was taken in 2017 in Southwestern University of Finance and Economics (SWUFE)
-[![Youtube](/images/profile.png)](https://youtu.be/rcUfz-vTPn0)
+[![Youtube](/images/video_screenshot.png)](https://youtu.be/rcUfz-vTPn0)
 
 
