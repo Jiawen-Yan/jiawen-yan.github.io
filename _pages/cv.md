@@ -68,7 +68,7 @@ Skills
 * CFA Level II Candidates 
 * English
   * GRE: 329, Quantitative: 170/170, Verbal: 159/170
-  * TOEFL: 104/120
+  * TOEFL: 109/120
 * Proficient in Python for data visualization, machine learning and textual analysis
 * Proficient in Stata for statistical analytics
 * Familiar with SQL, R, SAS, LaTeX
