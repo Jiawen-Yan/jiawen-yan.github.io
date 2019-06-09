@@ -27,7 +27,7 @@ Project on Cryptocurrencies Valuation and Pricing
 =====
 Sentiment Value: Does Market Sentiment Matter for Cryptocurrencies?
 
-[[Presentation Slides](http://charlesyan1.github.io/files/courses/blockchain_and_cryptocurrency/Project_Presentation.pdf)
+[[Presentation Slides]](http://charlesyan1.github.io/files/courses/blockchain_and_cryptocurrency/Project_Presentation.pdf)
 
 
 
