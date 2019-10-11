@@ -28,6 +28,7 @@ EDUCATION
   * Sponsored by China Scholarship Council (CSC)
   * GPA: 4.0/4.0, relevant coursework: Money and Banking (A), Economic Forecasting (A), Financial Economics (A), International Trade and Policy (A), Game & Economical Behavior (A)
 
+
 WORKING PAPERS
 ======
 * *Face Value: Do Perceived Facial Impression Matter for Sell-side Analysts?* (With Siew Hong Teoh – University of California, Irvine, Lin Peng – Baruch College, CUNY & Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [URL].
@@ -46,16 +47,15 @@ RESEARCH EXPERIENCE
   * Participated in National Natural Science Project with professor Yakun Wang from NYU Shanghai: The Dissemination of Corporates’ Accounting Information: Quality, Channels and Effects; designed Python scripts and programs to massively collect unstructured textual and image data from Internet and performed pilot studies;
   * Applied Python Requests and Selenium packages to scrape: 1) over 20 million U.S. financial service practitioners’ (CEOs, BODs, TMTs, etc.) full LinkedIn profiles; 2) exceptionally detailed individual profiles including education background, previous working experience and qualifying exams results of 0.34 million China SAC registered analysts; 
 
-
-* National Undergraduate Research Project, 2016.5 - 2017.5 
-  *Project Leader (Chengdu, China)*
+* National Undergraduate Research Project, 2016.5 - 2017.5  
+  *Project Leader (Chengdu, China)* 
   * Leaded the Undergraduate Research Project supported by China Ministry of Education with funding 8,000 RMB: Information Content of Listed Firms’ Notices
   * Trained a Naïve Bayes machine learning classifier by manually labelling sentiment level of 10,000 sentences and achieved 10-folds cross-validation accuracy above 85%; discovered the significantly positive relationship between the tone of list firms’ notices and their short-window stock returns and long-term growth opportunities; 
 
 
 OTHER ACADEMIC EXPERIENCE 
 =====
-* Digital Assets Research Center at Tsinghua University, 2019.5 - Present 
+* Digital Assets Research Center at Tsinghua University, 2019.5 - Present  
   *Student Researcher (Beijing, China)*
   * Collaborated the digital asset pricing research project: Sentiment Value: Does Sentiment Matter for Cryptocurrencies? with professor Mei Luo of Tsinghua University 
   * Participated in the research project reviewing the history, mechanism and future outlook of digital currency Ethereum; helped to complete research report: Introduction to Ethereum, with professor Mei Luo of Tsinghua University; 
@@ -73,6 +73,7 @@ HONORS & AWARDS
   * Outstanding Winner of 2016 Mathematical Contest in Modeling, top 0.13% (Apr. 2016)
   * National Scholarship of China Ministry of Education, top 0.3% among class (Apr. 2015)
   * SWUFE First-Tier Scholarship for Outstanding Academic Performance (Sept. 2015, Apr. 2016, Oct. 2016, Dec. 2017, Jun. 2018), Scientific Research (Apr. 2016, Apr. 2017), Innovation and Entrepreneurship (Mar. 2015, Oct. 2016);
+
 
 SKILLS & HOBBIES
 ======
