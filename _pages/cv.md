@@ -60,7 +60,7 @@ OTHER ACADEMIC EXPERIENCE
   * Collaborated the digital asset pricing research project: Sentiment Value: Does Sentiment Matter for Cryptocurrencies? with professor Mei Luo of Tsinghua University 
   * Participated in the research project reviewing the history, mechanism and future outlook of digital currency Ethereum; helped to complete research report: Introduction to Ethereum, with professor Mei Luo of Tsinghua University; 
 
-* Mathematical Contest of Modeling, 2017.1 - 2017.2 
+* Mathematical Contest of Modeling, 2017.1 - 2017.2  
   *Team Leader (Chengdu, China)*
   * Outstanding Winner Award (top 0.13%) and Frank Giordano Award for excellent modeling; Invited by Mathematical Association of America to present paper at 2016 MAA annual meeting;
   * Modelled space debris distribution using public information from NASA and analyzed corresponding the commercial opportunities of space debris removing using scenario-based cost-benefit process and game theory;
