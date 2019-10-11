@@ -31,7 +31,7 @@ EDUCATION
 WORKING PAPERS
 ======
 * *Face Value: Do Perceived Facial Impression Matter for Sell-side Analysts?* (With Siew Hong Teoh – University of California, Irvine, Lin Peng – Baruch College, CUNY & Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [URL].
-* *Machine Learning Engined Asset Pricing: Evidence from China Financial Market)* (With Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [URL].
+* *Machine Learning Engined Asset Pricing: Evidence from China Financial Market.* (With Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [URL].
 
 
 RESEARCH EXPERIENCE
@@ -47,7 +47,7 @@ RESEARCH EXPERIENCE
   * Applied Python Requests and Selenium packages to scrape: 1) over 20 million U.S. financial service practitioners’ (CEOs, BODs, TMTs, etc.) full LinkedIn profiles; 2) exceptionally detailed individual profiles including education background, previous working experience and qualifying exams results of 0.34 million China SAC registered analysts; 
 
 
-* National Undergraduate Research Project, 2016.5 - 2017.5
+* National Undergraduate Research Project, 2016.5 - 2017.5 
   *Project Leader (Chengdu, China)*
   * Leaded the Undergraduate Research Project supported by China Ministry of Education with funding 8,000 RMB: Information Content of Listed Firms’ Notices
   * Trained a Naïve Bayes machine learning classifier by manually labelling sentiment level of 10,000 sentences and achieved 10-folds cross-validation accuracy above 85%; discovered the significantly positive relationship between the tone of list firms’ notices and their short-window stock returns and long-term growth opportunities; 
