@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiawen Yan / Charles"
+title                    : "Jiawen Yan"
 title_separator          : "-"
 name                     : &name "Jiawen Yan"
-description              : &description "Master Student in Data Analytics at Tsinghua and Columbia University"
+description              : &description "Master in Operation Research at Columbia University and Business Analytics at Tsinghua University"
 url                      : https://charlesyan1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlesyan1/charlesyan1.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Jiawen Yan"
   avatar           : "profile.png"
   bio              : "Master Student in Data Analytics at Tsinghua and Columbia University"
-  location         : "Beijing, China"
+  location         : "New York, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "yjw9100@hotmail.com"
+  email            : "jiawen.yan@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -268,13 +268,13 @@ defaults:
       share: true
 
   # _programming
-  - scope:
-      path: ""
-      type: programming
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: programming
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
