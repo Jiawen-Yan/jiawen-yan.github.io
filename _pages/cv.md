@@ -4,12 +4,12 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /
 ---
 
 {% include base_path %}
 
-*(Last Update: Oct. 2019)* 
+[[CV]](http://charlesyan1.github.io/files/CV/Jiawen_Yan_CV_Nov_2019_LaTeX.pdf) *(Last Update: Nov. 2019)* 
 
 EDUCATION
 ======
@@ -31,8 +31,8 @@ EDUCATION
 
 WORKING PAPERS
 ======
-* *Face Value: Do Perceived Facial Impression Matter for Sell-side Analysts?* (With Siew Hong Teoh – University of California, Irvine, Lin Peng – Baruch College, CUNY & Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [URL].
-* *Machine Learning Engined Asset Pricing: Evidence from China Financial Market.* (With Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [URL].
+* *Face Value: Do Perceived Facial Impression Matter for Sell-side Analysts?* (With Siew Hong Teoh – University of California, Irvine, Lin Peng – Baruch College, CUNY & Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [[Link]](http://charlesyan1.github.io/files/research/face_value/paper.pdf).
+* *Machine Learning Engined Asset Pricing: Evidence from China Financial Market.* (With Yakun Wang – Chinese University of Hong Kong, Shenzhen). Available at [[Link]](http://charlesyan1.github.io/files/research/ML/paper.pdf).
 
 
 RESEARCH EXPERIENCE
@@ -68,6 +68,7 @@ OTHER ACADEMIC EXPERIENCE
 
 HONORS & AWARDS
 ======
+  * Graduate National Scholarship, top 1% amont class (Oct. 2019)
   * Tang Lixin Scholarship-10,000 RMB/year until academic graduation, top 0.1% among class (Mar. 2017)
   * Special Award 2016-2017 Guanghua Entrepreneur Competition - 15,000 RMB (Dec. 2017) 
   * Outstanding Winner of 2016 Mathematical Contest in Modeling, top 0.13% (Apr. 2016)
