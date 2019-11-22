@@ -23,7 +23,7 @@ EDUCATION
   * GPA: 4.2/5.0 (92/100), ranking top 1% and outstanding graduate representative among class 2014;
   * Modeled after Sloan Business School with classes in English with concentration on finance and data analysis; 
   * Relevant coursework: Mathematics Modeling and Experiment (99/100), Econometrics (97/100), Probability and Statistics (97/100), Behavior Finance (99/100), Advanced Mathematics (99/100), Intermediate Economics (95/100), Derivative Pricing (93/100)
-  * Thesis: Analysts’ Characteristics, Textual Information, and Prediction Accuracy: Evidence from China Financial Market; studies the relationship between Chinese analysts’ facial characteristics and their prediction accuracy - designated as outstanding undergraduate thesis by SWUFE; 
+  * Thesis: Analysts’ Characteristics, Textual Information, and Prediction Accuracy: Evidence from China Financial Market; designated as outstanding undergraduate thesis by SWUFE; 
 * Exchange Student, Texas University of A&M, Texas, 2016
   * Sponsored by China Scholarship Council (CSC)
   * GPA: 4.0/4.0, relevant coursework: Money and Banking (A), Economic Forecasting (A), Financial Economics (A), International Trade and Policy (A), Game & Economical Behavior (A)
@@ -45,7 +45,7 @@ RESEARCH EXPERIENCE
 * New York University, 2016.12 - 2017.4  
   *Research Assistant (Shanghai, China)* 
   * Participated in National Natural Science Project with professor Yakun Wang from NYU Shanghai: The Dissemination of Corporates’ Accounting Information: Quality, Channels and Effects; designed Python scripts and programs to massively collect unstructured textual and image data from Internet and performed pilot studies;
-  * Applied Python Requests and Selenium packages to scrape: 1) over 20 million U.S. financial service practitioners’ (CEOs, BODs, TMTs, etc.) full LinkedIn profiles; 2) exceptionally detailed individual profiles including education background, previous working experience and qualifying exams results of 0.34 million China SAC registered analysts; 
+ 
 
 * National Undergraduate Research Project, 2016.5 - 2017.5  
   *Project Leader (Chengdu, China)* 
