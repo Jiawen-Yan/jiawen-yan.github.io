@@ -33,12 +33,10 @@ INVITED CONFERENCES
 
 RESEARCH EXPERIENCE
 ======
-* Alibaba Group, 2019.12 - 2020.01
+* Alibaba Group, 2019.12 - 2020.01 
   *Data Analyst Intern (Hangzhou China)*
-
 * New York University, 2019.08 - 2020.01 
   *Research Assistant (Shenzhen, China)*  
-  
 * Chinese University of Hong Kong, 2017.9 - 2019.8   
   *Research Assistant (Shenzhen, China)*  
   
@@ -51,7 +49,7 @@ HONORS & AWARDS
   * Tang Lixin Study Abroad Scholarship, Tsinghua University, 2019
   * Graduate National Scholarship, Tsinghua University, 2019
   * Tang Lixin Scholarship, Southwestern University of Finance and Economics, 2017
-  * Special Award 2016-2017 Guanghua Entrepreneur Competition, Southwestern University of Finance and Economics,2017
+  * Special Award of Guanghua Entrepreneur Competition, Southwestern University of Finance and Economics, 2017
   * Outstanding Winner of 2016 Mathematical Contest in Modeling, Southwestern University of Finance and Economics, 2016
   * Undergraduate National Scholarship, Southwestern University of Finance and Economics, 2015
 
