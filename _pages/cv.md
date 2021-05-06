@@ -7,11 +7,7 @@ redirect_from:
   - /
 ---
 
-{% include base_path %}
-
-JIAWEN YAN [[CV]](http://charlesyan1.github.io/files/CV/Jiawen_Yan_CV_Nov_2019_LaTeX.pdf) *(Last Update: Feb. 2020)* 
-
-Jiawen's research interests lie in understanding the unstructured data in financial accounting, such as the text in the 10K, table and figures in the analyst reports, and image and video information in social media. Prior to joining the Johnson Ph.D. program in 2020, Jiawen received his B.S. in economics from Southwestern University of Finance and Economics and received his M.S. in management from Tsinghua University. Jiawen worked for the Chinese University of Hong Kong (Shen Zhen) and New York University as a research assistant, and for Alibaba Group as a research intern.
+Jiawen's research interests lie in understanding the unstructured data in financial accounting, such as the text in the 10K, table and figures in the analyst reports, and image and video information in social media. Prior to joining the Johnson Ph.D. program in 2020, Jiawen received his B.S. in economics from Southwestern University of Finance and Economics and received his M.S. in management from Tsinghua University. Jiawen worked for the Chinese University of Hong Kong (Shen Zhen) and New York University as a research assistant, and for Alibaba Group as a research intern. [[CV]](http://charlesyan1.github.io/files/CV/Jiawen_Yan_CV_Nov_2019_LaTeX.pdf) *(Last Update: Feb. 2020)* 
 
 
 EDUCATION
@@ -34,11 +30,11 @@ INVITED CONFERENCES
 RESEARCH EXPERIENCE
 ======
 * Alibaba Group, 2019.12 - 2020.01 
-  *Data Analyst Intern (Hangzhou China)*
+  * *Data Analyst Intern (Hangzhou China)*
 * New York University, 2019.08 - 2020.01 
-  *Research Assistant (Shenzhen, China)*  
+  * *Research Assistant (Shenzhen, China)*  
 * Chinese University of Hong Kong, 2017.9 - 2019.8   
-  *Research Assistant (Shenzhen, China)*  
+  * *Research Assistant (Shenzhen, China)*  
   
 
 HONORS & AWARDS

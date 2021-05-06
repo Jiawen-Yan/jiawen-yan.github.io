@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiawen Yan"
 title_separator          : "-"
 name                     : &name "Jiawen Yan"
-description              : &description "Master in Operation Research at Columbia University and Business Analytics at Tsinghua University"
+description              : &description "Ph.D. Student in Accounting at SC Johnson College of Business, Cornell University"
 url                      : https://charlesyan1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlesyan1/charlesyan1.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jiawen Yan"
-  avatar           : "profile.png"
-  bio              : "Master Student in Data Analytics at Tsinghua and Columbia University"
-  location         : "New York, U.S."
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. Student in Accounting at SC Johnson College of Business, Cornell University"
+  location         : "Ithaca, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "jiawen.yan@columbia.edu"
+  email            : "jy937@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
