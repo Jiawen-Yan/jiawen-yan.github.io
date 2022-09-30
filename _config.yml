@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiawen Yan"
 title_separator          : "-"
 name                     : &name "Jiawen Yan"
-description              : &description "Ph.D. Student in Accounting at SC Johnson College of Business, Cornell University"
+description              : &description "Ph.D. Candidate in Accounting at SC Johnson College of Business, Cornell University"
 url                      : https://charlesyan1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlesyan1/charlesyan1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiawen Yan"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in Accounting at SC Johnson College of Business, Cornell University"
+  bio              : "Ph.D. Candidate in Accounting at SC Johnson College of Business, Cornell University"
   location         : "Ithaca, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -113,6 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4508358"
 
 
 # Reading Files
