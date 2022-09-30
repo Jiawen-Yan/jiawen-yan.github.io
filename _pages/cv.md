@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Jiawen Yan"
 permalink: /cv/
 author_profile: true
 redirect_from:
