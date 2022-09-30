@@ -2,11 +2,16 @@
 title: "2022 Spring, Financial Accounting (NCC5500)"
 collection: courses
 permalink: /courses/NCC5500_2022Spring
-date: 2022-01-01
+date: 2022-01-20
 ---
 
+
+
 **Class Meetings**: Tuesday & Thursday 10:05 AM to 11:20 AM EST.
+
+
 **Office Hours**: Tuesday & Thursday 11:30 AM – 12:30 PM EST, or by appointment (Zoom).
+
 
 **Introduction**
 
