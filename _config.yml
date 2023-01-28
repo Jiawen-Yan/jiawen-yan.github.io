@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'SSRN']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiawen Yan"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate in Accounting at SC Johnson College of Business, Cornell University"
+  bio              : "Ph.D. Candidate in Accounting \nSC Johnson College of Business \nCornell University"
   location         : "Ithaca, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5235-2601"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
