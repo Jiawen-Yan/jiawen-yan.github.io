@@ -83,7 +83,7 @@ author:
   name             : "Jiawen Yan"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate in Accounting at SC Johnson College of Business, Cornell University"
-  location         : "Ithaca, U.S."
+  location         : #"Ithaca, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "jy937@cornell.edu"
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :  "https://github.com/CHARLESYAN1"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            :  "https://orcid.org/0000-0002-5235-2601"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
