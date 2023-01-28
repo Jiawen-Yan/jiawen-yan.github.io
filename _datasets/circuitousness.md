@@ -4,6 +4,9 @@ collection: datasets
 date: 2023-01-28
 ---
 
+Guest, Nicholas M. and Yan, Jiawen, The Fast and the Circuitous: Semantic Progression as a Type of Disclosure Complexity, Working Paper. Available at [SSRN](https://ssrn.com/abstract=4098951).
+
+
 *CIRCUITOUS* reflects the order in which information is presented in a document. It is defined as the ratio between the total length of the path the document actually takes from chunk to chunk and the length of the shortest possible path. 
 
 
@@ -15,5 +18,3 @@ This dataset is in Stata format and has two variables: 1) FILENAME, and 2) CIRCU
 
 **Download Links**: [[10-K]](https://charlesyan1.github.io/files/datasets/circuitousness.zip)
 
-
-Citation: Guest, Nicholas M. and Yan, Jiawen, The Fast and the Circuitous: Semantic Progression as a Type of Disclosure Complexity, Working Paper. Available at [SSRN](https://ssrn.com/abstract=4098951).
