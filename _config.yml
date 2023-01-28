@@ -256,7 +256,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: talk
+      layout: single
       author_profile: true
 
   # _dataset
