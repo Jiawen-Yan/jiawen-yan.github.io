@@ -5,7 +5,7 @@ permalink: /courses/NCC5500_2023Spring
 date: 2023-01-20
 ---
 
-20232 Spring
+2023 Spring
 
 
 **Class Meetings**: Tuesday & Thursday 10:05 AM to 11:20 AM EST.
