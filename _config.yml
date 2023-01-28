@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'SSRN']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -82,13 +82,10 @@ analytics:
 author:
   name             : "Jiawen Yan"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate in Accounting \nSC Johnson College of Business \nCornell University"
+  bio              : "Ph.D. Candidate in Accounting at SC Johnson College of Business, Cornell University"
   location         : "Ithaca, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  orcid            : "https://orcid.org/0000-0002-5235-2601"
-  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4508358"
-  github           : "https://github.com/CHARLESYAN1"
   email            : "jy937@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -98,11 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : 
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  
+  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4508358"
 
 
 # Reading Files
