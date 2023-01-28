@@ -13,7 +13,7 @@ Guest, Nicholas M. and Yan, Jiawen, The Fast and the Circuitous: Semantic Progre
 To compute textual *CIRCUITOUS* of each document, we employ the following four step procedure: 1) pre-process document, 2) split document into chunks, 3) represent chunks in high-dimensional space, and 4) calculate progression complexity of circuitousness.
 
 
-This dataset is in Stata format and has two variables: 1) FILENAME, and 2) CIRCUIOUS. FILENAME records the file name in EDGAR system, and the CIRCUIOUS records the computed circuitousness. See Guest and Yan (2023) Appendix for more technical details on computing progression complexity. 
+This dataset is in Stata format and has two variables: 1) *FILENAME*, and 2) *CIRCUIOUS*. *FILENAME* records the file name in EDGAR system, and the *CIRCUIOUS* records the computed circuitousness. See Guest and Yan (2023) Appendix for more technical details on computing progression complexity. 
 
 
 **Download Links**: [[10-K]](https://charlesyan1.github.io/files/datasets/circuitousness.zip)
