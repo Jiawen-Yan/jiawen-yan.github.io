@@ -11,9 +11,9 @@ title                    : "Jiawen Yan"
 title_separator          : "-"
 name                     : &name "Jiawen Yan"
 description              : &description "Ph.D. Candidate in Accounting at SC Johnson College of Business, Cornell University"
-url                      : https://charlesyan1.github.io
+url                      : https://jiawen-yan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "charlesyan1/charlesyan1.github.io"
+repository               : "jiawen-yan/jiawen-yan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "CHARLESYAN1"
+  github           :  "jiawen-yan"
   google_plus      :
   keybase          :
   instagram        :
