@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Jiawen Yan"
-permalink: /teaching/
+permalink: /research/
 author_profile: true
-redirect_from: /research/
+redirect_to: /research/
 ---
 
 * The Fast and the Circuitous: Semantic Progression as a Type of Disclosure Complexity"*
