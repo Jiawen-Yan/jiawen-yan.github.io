@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Jiawen Yan"
-permalink: /cv/
+permalink: /files/CV/Jiawen_Yan_CV_Feb_2024.pdf
 author_profile: true
 ---
 
