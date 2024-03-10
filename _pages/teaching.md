@@ -10,27 +10,27 @@ author_profile: true
 
 <b>Instructor</b>
 
-Financial Accounting 
+Financial Accounting \
 *- NCC 5500, Graduate Elective, 2023 Spring*\
 *- Co-instructor, with Jin Hee Lee*
 
-Financial Accounting 
+Financial Accounting \
 *- NCC 5500, Graduate Elective, 2022 Spring*\
 *- Co-instructor, with Jun Oh*
 
 <br/>
 <b>Teaching Assistant</b>
 
-Introduction to Python
+Introduction to Python\
 *- NBA 6215, MBA/EMBA Core, 2023 – 2024*\
 *- Teaching Assistant of Professor Nur Kaynar*
 
 
-Financial Accounting
+Financial Accounting\
 *- NCCT 5000, MBA/EMBA Core, 2021 – 2022* \
 *- Teaching Assistant of Professor Luo Zuo* 
 	
 
-Managerial Reporting and Cost Accounting
+Managerial Reporting and Cost Accounting\
 *- NBA 5020, MBA/EMBA Core, 2021 – 2022*\
 *- Teaching Assistant of Professor Robert J. Bloomfield*
