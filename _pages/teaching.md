@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<b><u>Cornell University, Samuel Curtis Johnson Graduate School of Management</u></b><br/>
+<b><u>CORNELL UNIVERSITY, JOHNSON COLLEGE OF BUSINESS</u></b><br/>
 
 <b>Instructor</b>
 
