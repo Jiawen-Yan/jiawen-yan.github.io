@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **1. Face Value: Trait Impressions, Performance Characteristics, and Market Outcomes for Financial Analysts**\
-*- with Lin Peng, Siew Hong Teoh, and Yakun Wang, 2022, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3741735)*
+*- with Lin Peng, Siew Hong Teoh, and Yakun Wang, 2022, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3741735)*\
 *- [Journal of Accounting Research](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-679X.12428) 60(2): 653-705.*\
 *- Media Coverage: [WSJ](https://www.wsj.com/articles/male-stock-analysts-dominant-faces-more-information-better-forecasts-6783f77c?st=fphsigff075e46x&reflink=desktopwebshare_permalink), [UCLA Anderson Review](https://anderson-review.ucla.edu/how-a-stock-analysts-face-affects-their-earning-estimates/)*
 
