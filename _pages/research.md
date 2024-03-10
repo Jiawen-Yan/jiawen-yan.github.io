@@ -24,6 +24,7 @@ author_profile: true
 
 
 **3. Earnings Pressure and Corporate Diversification**
+
 *with Eric Yeung and Xingyu Shen*\
 *Revise & Resubmit at The Accounting Review*
 
