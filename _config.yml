@@ -300,6 +300,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - jekyll-redirect-from
 
 
 # Archives
