@@ -244,12 +244,12 @@ defaults:
       share: false
 
   # _courses
-  - scope:
-      path: ""
-      type: courses
-    values:
-      layout: talk
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: courses
+  #   values:
+  #     layout: talk
+  #     author_profile: true
 
   # _research
   - scope:
