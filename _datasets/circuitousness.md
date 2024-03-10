@@ -1,7 +1,6 @@
 ---
 title: "Textual Circuitousness Datasets"
 collection: datasets
-date: 2023-01-28
 ---
 
 Guest, Nicholas M. and Yan, Jiawen, The Fast and the Circuitous: Semantic Progression as a Type of Disclosure Complexity, Working Paper. Available at [SSRN](https://ssrn.com/abstract=4098951).
