@@ -3,7 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_to: /research/
 ---
 
 * The Fast and the Circuitous: Semantic Progression as a Type of Disclosure Complexity"*
