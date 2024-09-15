@@ -27,7 +27,7 @@ author_profile: true
 
 
 **2. Using Indirect Disclosure to Hide Bad News**\
-*- with Nicholas Guest, 2023, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4098951), [Dataset](https://jiawen-yan.github.io/datasets/circuitousness/)*\
+*- with Nicholas Guest, 2023, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4098951)*\
 *- Revise & Resubmit at The Accounting Review*
 
 <p style='text-align: justify;'>Abstract: This paper examines a key aspect of semantic progression in ﬁnancial reports. Namely, circuitousness reﬂects the indirectness of a disclosure narrative, which we operationalize as the extent to which related information is not grouped together. We ﬁnd that 10-Ks of ﬁrms with lower current earnings and stock returns are more circuitous. Circuitousness is also negatively associated with the persistence of positive earnings, especially for ﬁrms with managerial incentives, monitoring, and other disclosure characteristics that indicate high potential for bad news obfuscation. Additional evidence suggests analysts do not immediately incorporate the negative performance implications of circuitousness. We also examine earnings conference calls and ﬁnd consistent results that help rule out alternative explanations. Moreover, the explanatory power of circuitousness survives and dominates a host of alternative measures of linguistic complexity. Overall, managers seem to hide bad news from the market by presenting a more meandering narrative of the ﬁrm. </p><br/>
