@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "About me"
+title: "Welcome to my page!"
 permalink: /
 author_profile: true
 ---
 
-Jiawen Yan is currently a fourth-year Ph.D. candidate in accounting at Johnson College of Business, Cornell University. 
+I am currently a fifth-year Ph.D. candidate in accounting at Johnson Graduate School of Management, Cornell University. I am on the 2024-2025 PhD Accounting Job Market. 
 
-Jiawen's research interests lie in understanding the production, dissemination, and use of value-relevant information that is “unstructured”, meaning that it is not simply a labeled number (like Earnings Per Share = $3.27) or categorization (like Audit Opinion = Unqualified). Unstructured information includes text, images, and video in various settings such as 10-K, earnings calls, analyst reports, and media. Prior to joining the Cornell Ph.D. program in 2020, Jiawen received his B.S. in economics from Southwestern University of Finance and Economics and received his joint M.S. in management from Tsinghua and Columbia University.
+I use archival methods to examine issues related to financial accounting. My research interests lie in the production, dissemination, and use of value-relevant information. Specifically, I study factors that influence how managers produce information, how infomediaries disseminate information, and how investors use information. I specialize in applying big data techniques and advanced AI models to analyze value-relevant information that is unstructured (such as text, audio, and images). 
+
