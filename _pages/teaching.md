@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<b><u>Cornell University, SC Johnson Graduate School of Business</u></b><br/>
+<b><u>Cornell University, SC Johnson Graduate School of Management</u></b><br/>
 
 <b>Instructor</b>
 
