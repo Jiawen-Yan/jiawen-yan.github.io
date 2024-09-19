@@ -21,7 +21,7 @@ Financial Accounting \
 <br/>
 <b>Teaching Assistant</b>
 
-Introduction to Python\
+Introduction to Python for Business\
 *- NBA 6215, MBA/EMBA Core, 2023 – 2024*\
 *- Teaching Assistant of Professor Nur Kaynar*
 

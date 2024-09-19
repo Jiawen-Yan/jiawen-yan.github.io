@@ -18,7 +18,7 @@ author_profile: true
 <b><u>WORKING PAPERS</u></b><br/>
 
 **1. Do Shared Auditors Facilitate Follow-on Innovation?**\
-*- with Xuan Tian, and Luo Zuo, 2022, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099144)*\
+*- with Xuan Tian and Luo Zuo, 2022, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099144)*\
 *- Best Paper Award at 2022 MIT Asia Conference in Accounting*\
 *- Revise & Resubmit at Journal of Accounting Research*
 
