@@ -6,8 +6,8 @@ author_profile: true
 ---
 <b><u>JOB MARKET PAPER</u></b><br/>
 
-**Conformism Within Firms and Top Management Information Quality**
-*- Solo-Authored*
+**Conformism Within Firms and Top Management Information Quality**\
+*- Solo-Authored*\
 *- Committee Members: [P. Eric Yeung (chair)](https://business.cornell.edu/faculty-research/faculty/pey4/), [Robert J. Bloomfield](https://business.cornell.edu/faculty-research/faculty/rjb9/), [Mani Sethuraman](https://business.cornell.edu/faculty-research/faculty/ss3647/), [Lin William Cong](https://business.cornell.edu/faculty-research/faculty/lc898/)*
 
 <p style='text-align: justify;'>Abstract: This paper examines the relation between conformism within firms and the quality of top management’s information. Using a novel dataset of Google reviews, I construct a proxy for conformism and find that it is negatively associated with both the frequency and the likelihood of management earnings forecasts, indicating that conformism reduces top management information quality. Cross-sectionally, the negative effects of conformism are stronger when top management engages in more internal communication and weaker when top management has greater access to external information sources. Moreover, conformism is negatively associated with the likelihood and informativeness of corporate earnings conference calls. The exogenous shock of the Dodd-Frank rollback provides further evidence supporting causal inferences. Overall, this paper emphasizes the harms of conformism on information flows within firms.</p><br/>
