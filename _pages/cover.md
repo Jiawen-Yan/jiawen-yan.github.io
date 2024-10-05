@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-I am currently a fifth-year Ph.D. candidate in accounting at SC Johnson Graduate School of Management, Cornell University. I am on the 2024-2025 Ph.D. Accounting Job Market. 
+I am currently a fifth-year Ph.D. candidate in accounting at SC Johnson Graduate School of Management, Cornell University. I am on the 2024-2025 Ph.D. Accounting Job Market, with an expected graduation date of May 2025. 
 
-I use archival methods to examine issues related to financial accounting. My research interests lie in the production, dissemination, and use of value-relevant information. Specifically, I study factors that influence how managers produce information, how infomediaries disseminate information, and how investors use information. I specialize in applying big data techniques and advanced AI models to analyze value-relevant information that is unstructured (such as text, audio, and images). 
-
+I use archival methods to examine issues related to financial accounting. My research interests lie in the dynamics of information transmission in markets and firms. Specifically, I examine the transmission of information among capital market participants, such as managers, infomediaries, and investors, as well as the transmission of information among the workforce within firms.
