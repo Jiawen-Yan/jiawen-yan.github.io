@@ -30,8 +30,8 @@ author_profile: true
 **1. Do Shared Auditors Facilitate Follow-on Innovation?**\
 *- with Xuan Tian and Luo Zuo, 2024, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099144)*\
 *- Best Paper Award at 2022 MIT Asia Conference in Accounting*\
-*- Revise & Resubmit at Journal of Accounting Research*
 *- Resubmitted for the **2nd-round** review at **Journal of Accounting Research***
+
 <p style='text-align: justify;'>Abstract: We investigate whether shared auditors promote the dissemination of innovative knowledge among their clients, thereby fostering follow-on innovation. We find that a company cites more patents from another company when they are audited by the same audit office. To address concerns about potential confounding factors stemming from commonalities in the fundamentals of the two companies, we leverage a quasi-exogenous shock to auditor sharing: the demise of Arthur Andersen and the subsequent increase in auditor switching in 2002. Further analysis reveals that the effect of a shared auditor on cross-client patent citations is stronger when both clients engage in intensive innovation activities and when their products exhibit greater similarity. Additional evidence suggests that shared auditors exert more influence on the citations of recent patents and patents that are easier for outsiders to utilize. Overall, our findings suggest that auditors play a significant role in corporate innovation by facilitating the transfer of innovative knowledge among their clients.
 </p><br/>
 
