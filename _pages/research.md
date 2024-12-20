@@ -20,20 +20,20 @@ author_profile: true
 
 **1. Do Shared Auditors Facilitate Follow-on Innovation?**\
 *- with Xuan Tian and Luo Zuo, 2024, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099144)*\
-*- Best Paper Award at 2022 MIT Asia Conference in Accounting*\
+*- Best Paper Award at 2022 MIT Asia Conference in Accounting*
 
 <p style='text-align: justify;'>Abstract: We investigate whether shared auditors promote the dissemination of innovative knowledge among their clients, thereby fostering follow-on innovation. We find that a company cites more patents from another company when they are audited by the same audit office. To address concerns about potential confounding factors stemming from commonalities in the fundamentals of the two companies, we leverage a quasi-exogenous shock to auditor sharing: the demise of Arthur Andersen and the subsequent increase in auditor switching in 2002. Further analysis reveals that the effect of a shared auditor on cross-client patent citations is stronger when both clients engage in intensive innovation activities and when their products exhibit greater similarity. Additional evidence suggests that shared auditors exert more influence on the citations of recent patents and patents that are easier for outsiders to utilize. Overall, our findings suggest that auditors play a significant role in corporate innovation by facilitating the transfer of innovative knowledge among their clients.
 </p><br/>
 
 
 **2. Using Indirect Disclosure to Hide Bad News**\
-*- with Nicholas Guest, 2023, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4098951)*\
+*- with Nicholas Guest, 2023, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4098951)*
 
 <p style='text-align: justify;'>Abstract: This paper examines a key aspect of semantic progression in ﬁnancial reports. Namely, circuitousness reﬂects the indirectness of a disclosure narrative, which we operationalize as the extent to which related information is not grouped together. We ﬁnd that 10-Ks of ﬁrms with lower current earnings and stock returns are more circuitous. Circuitousness is also negatively associated with the persistence of positive earnings, especially for ﬁrms with managerial incentives, monitoring, and other disclosure characteristics that indicate high potential for bad news obfuscation. Additional evidence suggests analysts do not immediately incorporate the negative performance implications of circuitousness. We also examine earnings conference calls and ﬁnd consistent results that help rule out alternative explanations. Moreover, the explanatory power of circuitousness survives and dominates a host of alternative measures of linguistic complexity. Overall, managers seem to hide bad news from the market by presenting a more meandering narrative of the ﬁrm. </p><br/>
 
 
 **3. Earnings Pressure and Corporate Refocus**\
-*- with Eric Yeung and Xingyu Shen, 2023*\
+*- with Eric Yeung and Xingyu Shen, 2023*
 
 <p style='text-align: justify;'>Abstract: Facing the pressure to meet short-term earnings expectations, managers often take actions that are thought to be destroying firm value. Our study provides empirical evidence supporting an alternative view: Earnings pressure forces the managers to refocus on the firm's core products through cost-cutting, which can be value-enhancing. The documented product refocus is more pronounced when the CEO exhibits high-level agency problems. For identification, we exploit the setting of analyst brokerage mergers and closures. Our study suggests a bright side of earnings pressure - it helps reduce agency-motivated product diversification.</p>
 
