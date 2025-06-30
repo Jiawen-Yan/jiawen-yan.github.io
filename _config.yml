@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiawen Yan"
 title_separator          : "-"
 name                     : &name "Jiawen Yan"
-description              : &description "Assistant professor in the Business School at National University of Singapore"
+description              : &description "Assistant Professor at the NUS Business School, National University of Singapore"
 url                      : https://jiawen-yan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiawen-yan/jiawen-yan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiawen Yan"
   avatar           : "IMG_1730_optimized_100.jpg"
-  bio              : "Assistant professor in the Business School at National University of Singapore"
+  bio              : "Assistant Professor at the NUS Business School, National University of Singapore"
   location         : #"Ithaca, U.S."
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
