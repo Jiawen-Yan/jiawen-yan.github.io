@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Research abstracts are collapsed until selected. */
+.paper-abstract > summary {
+  color: #52adc8;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.paper-abstract[open] > summary {
+  margin-bottom: 0.5em;
+}
